@@ -10,7 +10,7 @@
 
 ---
 
-## 🌷 Tech Garden
+## 🌷 Tech
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge"/>
