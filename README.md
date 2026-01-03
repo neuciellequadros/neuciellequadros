@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/neucielle-quadros">LinkedIn</a> •
 </p>
 
-<p align="center">✨ Construo back-ends robustos, integrações de pagamento, autenticação segura e dados bem tratados. ✨</p>
+
 
 ---
 
